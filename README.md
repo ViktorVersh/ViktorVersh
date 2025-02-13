@@ -6,10 +6,14 @@ Hi there 👋, my name Viktor
 About Me :
 I'm a Python Developer
 
-<img src="https://raw.githubusercontent.com/ViktorVersh/ViktorVersh/refs/heads/main/vgif-ru-37752.avif" alt="The unlimited" width="600">
+<img src="https://raw.githubusercontent.com/ViktorVersh/ViktorVersh/refs/heads/main/vgif-ru-37752.avif" alt="The unlimited">
 
 
-![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python) ![Static Badge](https://img.shields.io/badge/-%20postgresql-%234169E1?logo=postgresql) ![Static Badge](https://img.shields.io/badge/-%20mysql-%234479A1?logo=mysql)
+
+
+
+
 
 
 
