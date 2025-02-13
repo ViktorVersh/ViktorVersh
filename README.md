@@ -1,6 +1,6 @@
 Hi there, my name Viktor
 
-👨‍💻 About Me :
+About Me :
 I'm a Python Developer
 
 
