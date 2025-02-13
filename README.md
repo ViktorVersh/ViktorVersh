@@ -16,7 +16,7 @@ I'm a Python Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorVersh&show_icons=true&theme=radical)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ViktorVersh&theme=dark)](https://git.io/streak-stats)
 
 
 <!---
