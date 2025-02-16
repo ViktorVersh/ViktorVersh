@@ -1,10 +1,10 @@
-Hi there 👋, my name Viktor
+<h1> Hi there 👋, my name Viktor<h1>
 
 
 
 
-### :man_technologist: About Me :
-I'm a Python Developer
+<h1> :man_technologist: About Me :
+I'm a Python Developer<h1>
 
 <img src="https://raw.githubusercontent.com/ViktorVersh/ViktorVersh/refs/heads/main/vgif-ru-37752.avif" alt="The unlimited">
 
