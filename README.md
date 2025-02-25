@@ -14,7 +14,7 @@ I'm a Python Developer<h1>
 ![Static Badge](https://img.shields.io/badge/-%20mysql-%234479A1?logo=mysql)
 
 ## Projects
-### [Task manager Fastapi](https://github.com/ViktorVersh/Fastapi)
+##### [Task manager Fastapi](https://github.com/ViktorVersh/Fastapi)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorVersh&show_icons=true&theme=transparent)
