@@ -16,6 +16,8 @@ I'm a Python Developer<h1>
 ## Projects
 ##### [Task manager Fastapi](https://github.com/ViktorVersh/Fastapi)
 
+##### [TelegramBot HealthBot](https://github.com/ViktorVersh/Health_bot)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorVersh&show_icons=true&theme=transparent)
 
