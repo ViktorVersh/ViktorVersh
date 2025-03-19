@@ -18,6 +18,8 @@ I'm a Python Developer<h1>
 
 ##### [TelegramBot HealthBot](https://github.com/ViktorVersh/HealthBot)
 
+##### [TelegramBot MotivationBot](https://github.com/ViktorVersh/Motivation)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorVersh&show_icons=true&theme=transparent)
 
