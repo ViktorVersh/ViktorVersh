@@ -21,12 +21,4 @@ I'm a Python Developer<h1>
 ##### [TelegramBot MotivationBot](https://github.com/ViktorVersh/Motivation)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorVersh&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorVersh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!---
-ViktorVersh/ViktorVersh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
